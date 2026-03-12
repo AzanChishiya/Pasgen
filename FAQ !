@@ -1,0 +1,14 @@
+Q: Can I upload multiple files at once?
+A: Yes! Click "Add file" → "Upload files". You can drag and drop multiple files from your computer.
+
+Q: What if I want to upload a folder?
+A: On GitHub website, you can only upload files, not folders. But you can create folders by typing the folder name in the filename box like folder_name/file.py
+
+Q: Is this really "git"?
+A: Yes! GitHub's website does all the git commands for you behind the scenes. You're still using git, just through a web interface.
+
+Q: Can people really install my tool with pip?
+A: Yes! As long as you have setup.py and pasgen.py, anyone can run pip install git+https://github.com/yourusername/pasgen.git
+
+Q: Do I need to do anything else?
+A: Nope! Your tool is live and ready for the world to use!
