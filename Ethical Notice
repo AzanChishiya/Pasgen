@@ -1,0 +1,249 @@
+⚠️ IMPORTANT – READ BEFORE USING THIS TOOL
+This document outlines the ethical guidelines, legal responsibilities, and proper usage of pasgen – the Targeted Password Wordlist Generator. By downloading, installing, or using this tool, you agree to abide by these terms.
+
+📋 TABLE OF CONTENTS
+Purpose of This Tool
+
+Legal Warning
+
+Ethical Usage Guidelines
+
+Who Should Use This Tool
+
+Who Should NOT Use This Tool
+
+Real-World Consequences
+
+Responsible Disclosure
+
+Educational Purpose Only
+
+Liability Waiver
+
+Frequently Asked Questions
+
+Contact Information
+
+1. PURPOSE OF THIS TOOL
+pasgen is designed for:
+
+✅ Security professionals conducting authorized penetration tests
+
+✅ System administrators auditing their own network security
+
+✅ Students learning about password security and cryptography
+
+✅ Individuals recovering their own lost passwords
+
+✅ Researchers studying password patterns and human behavior
+
+This tool helps demonstrate how easily passwords can be guessed when they're based on personal information – highlighting the importance of strong, random passwords.
+
+2. LEGAL WARNING
+🚨 UNAUTHORIZED ACCESS IS A CRIME
+Accessing a computer, network, or device without authorization is illegal in most countries, including:
+
+Country	Law	Maximum Penalty
+USA	Computer Fraud and Abuse Act (CFAA)	Up to 10 years prison + fines
+UK	Computer Misuse Act 1990	Up to 10 years prison
+Canada	Criminal Code (Section 342.1)	Up to 10 years prison
+Australia	Cybercrime Act 2001	Up to 10 years prison
+Pakistan	Prevention of Electronic Crimes Act 2016	Up to 7 years prison + fines
+India	Information Technology Act 2000	Up to 3 years prison + fines
+EU	Directive 2013/40/EU	Up to 5 years prison
+What constitutes unauthorized access?
+Cracking WiFi passwords without the owner's permission
+
+Attempting to log into someone's social media account
+
+Using password wordlists on systems you don't own
+
+Sharing cracked passwords with others
+
+Any access without explicit written consent
+
+💡 THE "JUST ASKING" DEFENSE DOESN'T WORK
+"But I only wanted to see if I could do it!"
+"I wasn't going to use the password for anything!"
+"It's just for fun!"
+
+Courts do not accept these excuses. The act of attempting unauthorized access is itself a crime – regardless of intent or whether you actually use the information.
+
+3. ETHICAL USAGE GUIDELINES
+✅ DO use pasgen for:
+Scenario	Permission Required
+Testing your own WiFi network	No permission needed – it's yours
+Testing a friend's network	Written permission from the owner
+Company security audit	Signed contract authorizing the test
+Educational demo in class	Instructor approval + own/test network
+Password recovery (your own)	You own the account/device
+Bug bounty programs	Platform rules + scope limitations
+❌ DO NOT use pasgen for:
+Scenario	Why It's Wrong
+Neighbor's WiFi	That's their private property
+School/college network	You don't own it
+Someone's social media	Identity theft, privacy violation
+Any network with "FREE" in name	Still not yours to test
+"Just to see if I can"	Intent doesn't matter – it's illegal
+The Golden Rule:
+If it's not yours and you don't have written permission, DON'T TOUCH IT.
+
+4. WHO SHOULD USE THIS TOOL
+This tool is appropriate for:
+
+🔒 Ethical Hackers / Penetration Testers – Professionals with contracts
+
+🔒 Cybersecurity Students – Learning in controlled environments
+
+🔒 Network Administrators – Securing their own infrastructure
+
+🔒 Security Researchers – Studying password patterns ethically
+
+🔒 Curious Learners – Testing on their own devices only
+
+5. WHO SHOULD NOT USE THIS TOOL
+This tool is NOT for:
+
+🚫 Script kiddies – People who want to "hack for fun"
+
+🚫 Revenge seekers – Anyone trying to access ex-partner's accounts
+
+🚫 Curious neighbors – People wanting free WiFi
+
+🚫 Minors without supervision – Without proper guidance and ethics training
+
+🚫 Anyone without clear consent – From the system owner
+
+6. REAL-WORLD CONSEQUENCES
+What happens if you misuse this tool?
+CASE STUDY 1: The Curious Student
+A 16-year-old in the UK used a password cracker on his school's network "just to see if he could." He was arrested, charged under the Computer Misuse Act, and received a 9-month referral order + permanent record. He was banned from using computers at school and couldn't apply for computer science programs.
+
+CASE STUDY 2: The WiFi "Joke"
+A man in the US cracked his neighbor's WiFi and changed the SSID to a prank name. He was charged with unauthorized access to a computer network (a felony), spent 6 months in jail, and paid $10,000 in fines.
+
+CASE STUDY 3: The "White Hat" Without Permission
+A security researcher found a vulnerability in a company's system and accessed it to "prove it was vulnerable." He was prosecuted, and despite his good intentions, was convicted under the CFAA. His career in security was over.
+
+Potential Consequences:
+⚖️ Criminal record – Affects jobs, travel, education
+
+⚖️ Prison time – Even for first offenses
+
+⚖️ Fines – Thousands to hundreds of thousands of dollars
+
+⚖️ Civil lawsuits – Victims can sue for damages
+
+⚖️ School expulsion – If you're a student
+
+⚖️ Career destruction – No cybersecurity job will hire a convicted hacker
+
+7. RESPONSIBLE DISCLOSURE
+If you accidentally discover a vulnerability while using this tool on authorized systems:
+
+Stop immediately – Do not exploit further
+
+Document your findings – What you found, when, how
+
+Contact the owner/administrator – Privately and professionally
+
+Give reasonable time – For them to fix it (typically 30-90 days)
+
+Do not share publicly – Until the issue is resolved
+
+This is called responsible disclosure and is the ethical way to handle findings.
+
+8. EDUCATIONAL PURPOSE ONLY
+pasgen is provided SOLELY FOR EDUCATIONAL PURPOSES. It is intended to:
+
+📚 Teach how password cracking works
+
+📚 Demonstrate why personal information makes weak passwords
+
+📚 Show the importance of complex, random passwords
+
+📚 Help security professionals understand attack vectors
+
+The knowledge gained from this tool should be used to DEFEND systems, not attack them.
+
+9. LIABILITY WAIVER
+IMPORTANT LEGAL NOTICE
+BY DOWNLOADING, INSTALLING, OR USING THIS SOFTWARE, YOU ACKNOWLEDGE AND AGREE THAT:
+
+The author(s) of pasgen assume no liability for any misuse of this tool.
+
+You are solely responsible for ensuring your use complies with all applicable local, state, national, and international laws.
+
+You agree to indemnify and hold harmless the author(s) from any claims, damages, or legal actions resulting from your use of this tool.
+
+This tool is provided "AS IS" without warranty of any kind, express or implied.
+
+The author(s) do not condone illegal activity and created this tool for legitimate security education and testing purposes only.
+
+10. FREQUENTLY ASKED QUESTIONS
+Q: Can I test my own WiFi?
+A: Yes! Your own network is yours to test. This is a great way to learn.
+
+Q: Can I test my friend's WiFi if they say "yes" verbally?
+A: NO. Verbal permission is not enough. Get it in writing (email, text, or signed document). Without written proof, it's your word against theirs.
+
+Q: What about public WiFi at cafes?
+A: NO. You don't own it, and you don't have permission from the owner.
+
+Q: I'm a security student – can I practice on my school's network?
+A: Only with written permission from your instructor AND the network administrator. Otherwise, it's unauthorized access.
+
+Q: What if I find a vulnerability and report it?
+A: If you accessed without permission, you still committed a crime – even if you reported it. Always get permission FIRST.
+
+Q: Can I use this on bug bounty programs?
+A: Yes, but ONLY within the program's scope and rules. Never go beyond what's allowed.
+
+Q: I'm under 18 – does the law apply to me?
+A: YES. Minors can be prosecuted, though penalties may differ. Schools can also expel students for hacking.
+
+11. CONTACT INFORMATION
+For questions about ethical usage, permissions, or to report misuse:
+
+GitHub Issues: https://github.com/yourusername/pasgen/issues
+
+Email: your.email@example.com
+
+For licensing or commercial use inquiries, please contact the author.
+
+🔴 FINAL WARNING
+"With great power comes great responsibility."
+
+You now have a tool that can generate millions of password combinations. This power can be used to protect or to harm. The choice is yours – but remember that choices have consequences.
+
+If you wouldn't want someone doing it to you, don't do it to others.
+
+✅ ETHICAL USAGE CHECKLIST
+Before using pasgen, ask yourself:
+
+Do I own this system/network?
+
+Do I have written permission from the owner?
+
+Am I acting within the scope of authorized testing?
+
+Would I be comfortable explaining my actions to a judge?
+
+Am I prepared to accept the consequences if I'm wrong?
+
+If you answered NO to any of these, DO NOT PROCEED.
+
+📜 CERTIFICATION
+By using pasgen, you certify that:
+
+You have read and understood this entire ethical note
+
+You will only use this tool on systems you own or have explicit written permission to test
+
+You understand the legal and ethical consequences of misuse
+
+You will not hold the author liable for your actions
+
+Stay ethical. Stay legal. Stay curious – but responsible. 🔒
+
+This ethical note was created on March 11, 2026. It may be updated without notice. Users are responsible for checking for updates.
