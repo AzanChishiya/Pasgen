@@ -1,16 +1,16 @@
-from setuptools import setup, find_packages
+from setuptools import setup
 
 setup(
     name="pasgen",
     version="1.1",
     description="Targeted Password Wordlist Generator",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Azan Chishiua",
+    author_email="Azan.Chishiya@gmail.com",
     url="https://github.com/yourusername/pasgen",
-    py_modules=["pasgen"],
+    py_modules=["pasgen"],                     # because it's a single module
     entry_points={
         "console_scripts": [
-            "pasgen = pasgen:main",
+            "pasgen = pasgen:main",            # creates a command 'pasgen'
         ],
     },
     classifiers=[
